@@ -2,7 +2,6 @@ import dayjs from "dayjs";
 import { db } from "../db";
 import { goalCompletions, goals } from "../db/schema";
 import { and, count, gte, lte, sql, eq } from "drizzle-orm";
-import { WithSubqueryWithSelection, PgColumn } from "drizzle-orm/pg-core";
 
 export async function getWeekPendingGoals() {
   const firstDayOfWeek = dayjs().startOf("week").toDate();
