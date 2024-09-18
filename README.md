@@ -1,20 +1,20 @@
-#Projeto NLW Pocket: Javascript - Full-stack Intermediário
+# Projeto NLW Pocket: Javascript - Full-stack Intermediário
 
 Neste projeto temos o código desenvolvido durante o evento NLW Pocket: Javascript - Full-stack Intermediário da Rocketseat. O foco foi o desenvolvimento de uma aplicação de controle de metas, aqui temos o back-end do projeto onde foi utilizado diversas tecnologias modernas, aplicando conceitos de API REST, validação de dados, e integração com banco de dados.
 
-#Tecnologias Utilizadas:
+# Tecnologias Utilizadas:
 
-#Node.js;
-#TypeScript;
-#Fastify;
-#DrizzleORM;
-#PostgreSQL;
-#Supabase;
-#Zod;
-#Docker;
-#Insomnia:
+- Node.js;
+- TypeScript;
+- Fastify;
+- DrizzleORM;
+- PostgreSQL;
+- Supabase;
+- Zod;
+- Docker;
+- Insomnia:
 
-#Descrição do Projeto
+# Descrição do Projeto
 
 O objetivo deste projeto foi criar uma API REST utilizando Fastify e TypeScript, seguindo boas práticas de desenvolvimento. As operações de banco de dados foram gerenciadas pelo DrizzleORM e o banco de dados utilizado foi o PostgreSQL.
 
